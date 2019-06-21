@@ -1,0 +1,37 @@
+{
+  "restos":
+  [
+    {
+      "nom": "AGNES",
+      "note": 20
+    },
+    {
+      "nom": "Libanais",
+      "note": 20
+    },
+    {
+      "nom": "Gevaudan",
+        "note": 15
+    },
+    {
+      "nom": "Cité fertile",
+      "note": 1
+    },
+    {
+      "nom": "Marcello",
+      "note": 2
+    },
+    {
+      "nom": "Italien précaire",
+      "note": 12
+    },
+    {
+      "nom": "JAP",
+      "note": 15
+    },
+    {
+      "nom": "Italien tres pauvre",
+      "note": 0
+    }
+  ]
+}
